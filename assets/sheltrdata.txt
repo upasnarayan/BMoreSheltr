@@ -1,0 +1,30 @@
+Organization,Tag,EligibleClients,Phone,Hours,URL,Address,City,State,Lat,Long
+American Rescue Workers,Emergency Shelter,Adult men,410-566-3300,Everyday: 6pm-7am,http://www.americanrescueworkers.org/,11 W. Clement. St,Baltimore,MD,39.27360082,76.61474734
+Beans and Bread,Drop-in Center,All,410-732-1892,M-F: 8:30am-4pm,http://www.vincentbaltimore.org/programs_beans_bread_st_vincent_baltimore.html,400 S. Bond St.,Baltimore,MD,39.28631881,76.59543457
+Bon Secours Women's Resource Center,Drop-in Center,Adult women and children,410-362-3547,MTThF: 9am-4:30pm,http://bonsecoursvocations.org/what-we-do/human-services/womens-resource-center/,10 N. Pulaski St.,Baltimore,MD,39.28847718,76.65012234
+Christ Lutheran Place,Emergency Shelter,Adult women and children,410-752-1285,Everyday: 24 hrs/ Intake 9am-5pm,http://www.christinnerharbor.org/social.html,701 S. Charles St.,Baltimore,MD,39.28065308,76.61459912
+Druid Dental Clinic,Health Care,All,410-396-0840,M-F: 8:30am-4:30pm Walk-in W only: 8:30-9am,http://baltimorehealth.org/dental.html,1515 W. North Ave.,Baltimore,MD,39.3100699,76.64148885
+Druid STD Clinic,Health Care,All,410-396-0176,M-W & F: 8:30am-4:30pm Th 8:30am-12:30pm,http://www.baltimorehealth.org/std.html,1515 W. North Ave.,Baltimore,MD,39.3100699,76.64148885
+DSS-HEESU,Drop-in Center (Homeless Environmental Emergency Services Unit),All,443-423-6000,M-F: 8am-5pm (Application site for public benefits),http://dhr.maryland.gov/county/baltimorecity/services.php,2000 N. Broadway,Baltimore,MD,39.31300595,76.59609181
+Eastern Dental Clinic,Health Care,All,443-984-3548,M-F: 8:30am-4:30pm Walk-in no later than 8:30am,http://baltimorehealth.org/dental.html,620 N. Caroline St.,Baltimore,MD,39.29769523,76.59758395
+Eastern STD Clinic,Health Care,All,410-396-9410,M-W & F: 8:30am-4:30pm Th 8:30am-12:30pm,http://www.baltimorehealth.org/std.html,620 N. Caroline St.,Baltimore,MD,39.29769523,76.59758395
+Eastern Tuberculosis Clinic,Health Care,All,410-396-9413,M T & Th: 8:30am-5pm,http://www.baltimorehealth.org/tb.html,620 N. Caroline St.,Baltimore,MD,39.29769523,76.59758395
+Franciscan Center,Drop-in Center,Adult men and women,410-467-5340,M-F: 10am-1pm,http://www.franciscancenterbaltimore.org/,101 W. 23rd St.,Baltimore,MD,39.31516007,76.61872701
+Health Care for the Homeless,Health Care,All homeless,410-837-5533,Walk-in M-F arrive by 6am Sat arrive by 7am,http://hchmd.org/,421 Fallsway,Baltimore,MD,39.29308186,76.60877651
+HealthCare Access Maryland,Drop-in Center,All,410-649-0501,M-F: 8am-4:30pm,http://www.healthcareaccessmaryland.org/,201 E. Baltimore St. 7th Floor,Baltimore,MD,39.28958335,76.61200907
+Helping Other People through Empowerment,Drop-in Center,All,410-327-5830,Everyday: 8:30am-5pm,http://www.hopebaltimore.org/,2828 Loch Raven Road,Baltimore,MD,39.32200391,76.60315075
+Helping Up Mission,Emergency Shelter,Adult men,410-675-7500,Everyday: 4:30pm-8am,http://community.helpingupmission.org/,1029 E. Baltimore St.,Baltimore,MD,39.29065354,76.60220646
+Karis Home,Emergency Shelter,Adult women and children,410-342-1323,Everyday: 5pm-8am Intake M-F: 10am-2pm,http://www.baltimorerescuemission.com/thekarishome.html,1228 E. Baltimore St.,Baltimore,MD,39.2911907,76.6006029
+Loving Arms,Emergency Shelter,Unaccompanied Youth,410-367-5869,Everyday: 24 hrs,http://lovingarmsinc.com/,3313 Oakfield Ave.,Baltimore,MD,39.32566415,76.68644596
+Manna House,Drop-in Center,All,410-889-3001,M-F: 8am-4:30pm,http://www.mannahouseinc.org/,435 E. 25th St.,Baltimore,MD,39.31806488,76.6101205
+MCVET-Veterans,Emergency Shelter & Drop-in Center,Homeless Veterans,410-576-9626,Everyday: 9am-5pm Intake T & Th 1:30-3:30pm,http://www.mcvet.org/,301 N. High St.,Baltimore,MD,39.29344144,76.60645126
+My Sister's Place Women's Center,Drop-in Center,Adult women and children,410-727-3523,Everyday: 7am-7pm,http://www.catholiccharities-md.org/my-sisters-place/,17 W. Franklin St.,Baltimore,MD,39.29503141,76.61574884
+Our Daily Bread,Drop-in Center,All,443-986-9000,M-F: 6am-4pm,http://www.catholiccharities-md.org/our-daily-bread/,725 Fallsway,Baltimore,MD,39.29818986,76.61054318
+Paul's Place,Drop-in Center,All,410-625-0775,M-F: 8am-4pm,http://www.paulsplaceoutreach.org/,1118 Ward. St.,Baltimore,MD,39.28188515,76.63273845
+Power Inside,Drop-in Center,Adult women,410-889-8333,M-F: 1-5pm,http://www.powerinside.org/,325 E. 25th St.,Baltimore,MD,39.31794515,76.61227664
+Prisoner's Aid,Drop-in Center,Adult men,410-662-0353,Everyday: 11pm-6am Intake M-Th: 9am-4pm F: 9-12pm,http://baltimorecity.md.networkofcare.org/mh/services/agency.aspx?pid=PrisonersAidAssociationofMaryland_674_2_1,204 E. 25th St.,Baltimore,MD,39.31797494,76.6139696
+Rose Street Youth Shelter,Emergency Shelter,Unaccompanied Youth,410-342-0104,Everyday: 24 hrs,http://www.facebook.com/pages/Rose-Street-Youth-Shelter-or-Basic-Center-Program/188205541211608,2525 E. Madison St.,Baltimore,MD,39.29991656,76.58121629
+Salvation Army/Booth House Shelter,Emergency Shelter,Adult women and children,410-685-8878,Everyday: 24 hrs Intake M-F:12-4pm,http://www.uss.salvationarmy.org/uss/www_uss_baltimore.nsf/vw-sublinks/F8C09B884E2798048025705B0051079F?openDocument,1114 N. Calvert St.,Baltimore,MD,39.30299224,76.61325913
+Sarah's Hope Mount Street Shelter,Emergency Shelter,Adult women and children,410-396-2204,Everyday: 24 hrs Intake 9am-6pm,http://www.vincentbaltimore.org/programs_sarahs_hope_mountst_st_vincent_baltimore.html,1114 N. Mount St.,Baltimore,MD,39.30177815,76.64455554
+Total Health Care,Health Care,All,410-396-6367,M W Th F: 8:30am-5pm T: 1:30pm-5pm,http://www.totalhealthcare.org/,1515 W. North Ave.,Baltimore,MD,39.3100699,76.64148885
+Weinberg Housing & Resource Center,Emergency Shelter,Adult men and women,443-478-3777,Everyday: 24 hrs,http://jhrbaltimore.org/shelter.htm,620 Fallsway,Baltimore,MD,39.2970747,76.6102554
